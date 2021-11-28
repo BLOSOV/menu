@@ -1,0 +1,24 @@
+body>header{
+    background-color:#aefd98;
+}
+background{
+    color:#333366;
+}
+header{
+    color: #333366 ;
+}
+h1{
+    color:#853333;
+}
+p{
+    color:#333366;
+}
+header{
+    font-size:25px;
+}
+.news{
+        font-family: Pacifico;       
+     }
+.grayscle{
+    background-color:darkGray;
+}
